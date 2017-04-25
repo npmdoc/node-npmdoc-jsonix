@@ -1,4 +1,7 @@
-# api documentation for  [jsonix (v2.4.1)](http://github.com/highsource/jsonix)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsonix.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsonix) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsonix.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsonix)
+# npmdoc-jsonix
+
+#### basic api documentation for  [jsonix (v2.4.1)](http://github.com/highsource/jsonix)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsonix.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsonix) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsonix.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsonix)
+
 #### Jsonix (JSON interfaces for XML) is a JavaScript library which allows converting between XML and JSON structures.
 
 [![NPM](https://nodei.co/npm/jsonix.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jsonix)
@@ -89,7 +92,8 @@
     "scripts": {
         "test": "nodeunit tests/tests.js"
     },
-    "version": "2.4.1"
+    "version": "2.4.1",
+    "bin": {}
 }
 ```
 
